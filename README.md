@@ -9,7 +9,7 @@ Beginner-Friendly: Created using straightforward HTML and CSS techniques.
 
 
 🚀 Purpose
-This project showcases:
+This project showcases:-
 HTML for creating the structure of the webpage.
 CSS for styling and layout customization.
 

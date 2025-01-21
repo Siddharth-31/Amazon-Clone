@@ -15,7 +15,7 @@ CSS for styling and layout customization.
 
 
 🌐 Live Demo
-(Include a link to the live demo if available.)
+https://siddharth-31.github.io/Amazon-Clone/
 
 
 🤝 Contributing

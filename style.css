@@ -388,3 +388,7 @@ ul a:hover {
     text-decoration: underline;
     color: white;
 }
+.copyright1{
+    font-size: 0.6rem;
+    padding-top: 5px;
+}
